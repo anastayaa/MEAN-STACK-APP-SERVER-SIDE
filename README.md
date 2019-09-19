@@ -3,4 +3,4 @@ MEAN STACK QUIZ APP SERVER SIDE
 
 NODE JS + EXPRESS JS + Mongo DB
 
-Make sure to start Mongo db instance in port 27017
+Make sure to start Mongo DB instance in port 27017
